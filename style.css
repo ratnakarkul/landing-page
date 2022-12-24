@@ -1,0 +1,171 @@
+body{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+background-color: black;
+color: white;
+}
+#ui-name{
+position: absolute;
+width: 378px;
+height: 29px;
+left: 58px;
+top: 105px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+}
+select{
+box-sizing: border-box;
+position: absolute;
+width: 196px;
+height: 58px;
+left: 58px;
+top: 199px;
+background: #000000;
+border: 1px solid #FFFFFF;
+color: #FFFFFF;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+
+}
+.drop{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+}
+#btn{
+position: absolute;
+width: 226px;
+height: 58px;
+left: 58px;
+top: 583px;
+background: #FFFFFF;
+}
+#Add-a-user{
+position: absolute;
+width: 175px;
+height: 29px;
+left: 58px;
+top: 762px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}
+#p1{
+position: absolute;
+width: 119px;
+height: 25px;
+left: 58px;
+top: 846px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+#input1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 531px;
+height: 56px;
+left: 58px;
+top: 886px;
+background-color: black;
+border: 1px solid #FFFFFF;
+color: white;
+border-radius: 5px;
+}
+#p2{
+position: absolute;
+width: 157px;
+height: 25px;
+left: 647px;
+top: 846px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+#input2{
+box-sizing: border-box;
+position: absolute;
+width: 531px;
+height: 56px;
+left: 647px;
+top: 886px;
+background-color: black;
+border: 1px solid #FFFFFF;
+color: white;
+border-radius: 5px;
+}
+#p3{
+position: absolute;
+width: 133.35px;
+height: 25px;
+left: 1220px;
+top: 846px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+}
+#input3{
+box-sizing: border-box;
+position: absolute;
+width: 451px;
+height: 56px;
+left: 1220px;
+top: 886px;
+background-color: black;
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+color: white;
+
+}
+#btn2{
+position: absolute;
+width: 226px;
+height: 58px;
+left: 58px;
+top: 983px;
+
+background: #FFFFFF;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}
